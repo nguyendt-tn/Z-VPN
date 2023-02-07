@@ -1,0 +1,17 @@
+{
+  "currentLanguage": "English",
+  "language": "Language",
+  "start": "START",
+  "stop": "STOP",
+  "waiting": "WAITING",
+  "disconnected": "You are disconnected",
+  "connected": "You are connected",
+  "connecting": "You are connecting",
+  "server": "Servers",
+  "setting":"Settings",
+  "cancel": "Cancel",
+  "rateUs": "Rate us",
+  "feedback": "Feedback",
+  "privacy": "Privacy",
+  "terms": "Terms"
+}

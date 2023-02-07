@@ -1,0 +1,17 @@
+{
+  "currentLanguage": "Vietnamese",
+  "language": "Ngôn ngữ",
+  "start": "START",
+  "stop": "STOP",
+  "waiting": "WAITING",
+  "disconnected": "Bạn đă ngắt kết nối",
+  "connected": "Bạn đă kết nối",
+  "connecting": "Bạn đang kết nối",
+  "server": "Danh sách máy chủ",
+  "setting":"Cài đặt",
+  "cancel": "Hủy",
+  "rateUs": "Đánh giá ứng dụng",
+  "feedback": "Gửi phản hồi",
+  "privacy": "Quyền riêng tư",
+  "terms": "Điều khoản sử dụng"
+}
